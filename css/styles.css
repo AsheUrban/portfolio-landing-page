@@ -19,7 +19,7 @@ h3 {
 img {
   margin: auto;
   height: auto;
-  border: 2px solid orange;
+  padding: 20px;
   float: left;
 }
 .my-class {
