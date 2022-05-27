@@ -1,5 +1,6 @@
 body {
   background-color: rgb(151, 151, 243);
+  font-size: 18px;
 } 
 h1 {
   font-size: 48px;
@@ -19,7 +20,7 @@ h3 {
 img {
   margin: auto;
   height: auto;
-  padding: 20px;
+  padding: 30px;
   float: left;
 }
 .my-class {
