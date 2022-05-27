@@ -11,6 +11,8 @@ _This is a very basic landing page created to communicate a little about who I, 
 
 _Link to assignment: https://epicenter.epicodus.com/courses/966/code_reviews/5844_
 
+_Link to live page: https://asheurban.github.io/portfolio-landing-page/_
+
 ## Setup/Installation Requirements
 * _Clone this repository, portfolio-landing-page, to your desktop._
 * _Open the index.html in VS Code to run code on local host._
