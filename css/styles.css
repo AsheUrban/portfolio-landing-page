@@ -3,6 +3,16 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
   color: orange
 }
+h2 {
+  font-size: 28px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: lightgoldenrodyellow;
+}
 body {
-  background-color: lavender;
+  background-color: rgb(151, 151, 243);
+} 
+p.intro {
+  font-style:italic;
+  font-weight: 100;
+  font-size: 22px;
 }
