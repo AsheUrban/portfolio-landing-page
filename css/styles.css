@@ -16,3 +16,6 @@ p.intro {
   font-weight: 100;
   font-size: 22px;
 }
+.important {
+  font-weight: bold;
+}
