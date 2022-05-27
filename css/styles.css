@@ -16,6 +16,10 @@ p.intro {
   font-weight: 100;
   font-size: 22px;
 }
+.highlight {
+  color:blueviolet;
+  font-weight: bold;
+}
 .important {
   font-weight: bold;
 }
