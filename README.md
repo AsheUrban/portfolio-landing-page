@@ -7,7 +7,7 @@
 * _CSS_
 
 ## Description
-_This is a very basic landing page created to communicate a little about who I, Ashe Urban, am, my background, and my reason for wanting to learn to code._
+_This is a very basic landing page created to communicate a little about who I, Ashe Urban, am; my background; and my reason for wanting to learn to code._
 
 _Link to assignment: https://epicenter.epicodus.com/courses/966/code_reviews/5844_
 
