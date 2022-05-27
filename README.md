@@ -11,7 +11,7 @@ _This is a very basic landing page created to communicate a little about who I, 
 * _Clone this repository, portfolio-landing-page, to your desktop._
 * _Open the index.html in VS Code to run code on local host._
 
-_In your cloned local repository you should find the following directories, in addition to this README.md: CSS, HTML, IMG._
+_In your cloned local repository you should find the following directories, in addition to this README.md: CSS, index.html, IMG._
 
 ## Known Bugs
 
