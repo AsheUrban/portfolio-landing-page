@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(183, 183, 236);
+  background-color: rgb(141, 141, 238);
   font-size: 18px;
 } 
 h1 {
@@ -11,11 +11,11 @@ h1 {
 h2 {
   font-size: 28px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  color: rgb(236, 78, 16);
+  color: lightpink;
 }
 h3 {
   font-size: 24px;
-  color: purple;
+  color: lightgoldenrodyellow;
 }
 img {
   margin: auto;
@@ -25,7 +25,7 @@ img {
 }
 .my-class {
   margin: 12px;
-  border: 2px solid rgb(236, 78, 16);
+  border: 2px solid lightgoldenrodyellow;
   padding: 30px;
   float: right;
   background: lightpink;
