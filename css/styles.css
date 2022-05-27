@@ -19,8 +19,8 @@ h3 {
 img {
   margin: auto;
   height: auto;
+  border: 2px solid orange;
   float: left;
-  padding: 20px;
 }
 .my-class {
   margin: 12px;
