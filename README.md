@@ -4,7 +4,8 @@
 
 ## Technologies Used
 * _HTML_
-* *CSS*
+* _CSS_
+
 ## Description
 _This is a very basic landing page created to communicate a little about who I, Ashe Urban, am, my background, and my reason for wanting to learn to code._
 
@@ -18,9 +19,9 @@ _In your cloned local repository you should find the following directories, in a
 
 ## Known Bugs
 
-*_Box is not rendering as intended._
-*_IMG spacing and formatting issues_
-*_Sidebar not rendering as intended._
+* _Box is not rendering as intended._
+* _IMG spacing and formatting issues_
+* _Sidebar not rendering as intended._
 
 ## License
 * MIT
