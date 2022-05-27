@@ -19,7 +19,7 @@ _In your cloned local repository you should find the following directories, in a
 *_IMG spacing and formatting issues_
 *_Sidebar not rendering as intended._
 
-## Liscense
+## License
 * MIT
 
 _If you experience any issues, have any questions, ideas, or concerns, please contact me at ashe@goldentongue.com._
